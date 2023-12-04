@@ -1,8 +1,8 @@
 ![alt text](https://github.com/Bangkit-Capstone-Project-CH2-PS025/.github/blob/6fac06fd596ba70bbbda7ddcfcd702c0de51a495/Itinergo%20Logo%20with%20Company%20Name.png)
-## Our Teams
+## Our Team
 Our team divided by 3 divisions, which is Machine Learning, Cloud Computing, and Mobile Development. Machine Learning will provide gathering data, preprocessing data, and provide recommendation system algorithm for our main feature, which is Itinerary Planning. Cloud Computing will provide APIs, integrate Machine Learning models, and manage the Google Cloud Platform services. Mobile Development will provide UI/UX and build front-end of application.
 
-## Teams Member
+## Team Members
 | Bangkit ID | Name | University | Learning Path | Social Media |
 |-----|-------|------|------|------|
 | M643BSX0286   | Theophanie Scholastica Tanzil |  Institut Bio Scientia Internasional Indonesia | Machine Learning | [LinkedIn](https://www.linkedin.com/in/thscho/)
