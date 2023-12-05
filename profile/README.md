@@ -6,7 +6,7 @@ An Android application that enables users to personalize travel itineraries base
 Recommendation system based on budget and user preferences.
 
 ## Additional Features
-- Carbon calculator based on travel distance and vehicle type.
+- Carbon footprint estimation based on optimization travel distance.
 - Travel article for tips and tricks.
 - User-visited places.
 - Gamification (XP acquisition)
