@@ -11,7 +11,7 @@ Recommendation system based on budget and user preferences.
 - User-visited places.
 - Gamification (XP acquisition)
 
-## Team Members
+## Itinergo Peers
 | Bangkit ID | Name | University | Learning Path | Social Media |
 |-----|-------|------|------|------|
 | M643BSX0286   | Theophanie Scholastica Tanzil |  Institut Bio Scientia Internasional Indonesia | Machine Learning | [LinkedIn](https://www.linkedin.com/in/thscho/)
