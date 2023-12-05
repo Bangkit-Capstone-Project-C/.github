@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Bangkit-Capstone-Project-CH2-PS025/.github/blob/main/GitHub%20Banner.png)
-## Our Team
-Our team divided by 3 divisions, which is Machine Learning, Cloud Computing, and Mobile Development. Machine Learning will provide gathering data, preprocessing data, and provide recommendation system algorithm for our main feature, which is Itinerary Planning. Cloud Computing will provide APIs, integrate Machine Learning models, and manage the Google Cloud Platform services. Mobile Development will provide UI/UX and build front-end of application.
+## About
+An Android application that enables users to personalize travel itineraries based on budget and activity preferences. The primary goal is to save users time and money; as planning a trip can be challenging, especially there is an abundance of information available online about travel destinations, but seeking for reliable information and estimates distance by one-to-another place are daunting tasks. 
 
 ## Team Members
 | Bangkit ID | Name | University | Learning Path | Social Media |
