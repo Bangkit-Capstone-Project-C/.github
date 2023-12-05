@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Bangkit-Capstone-Project-CH2-PS025/.github/blob/main/GitHub%20Banner.png)
 ## About
-An Android application that enables users to personalize travel itineraries based on budget and activity preferences. The primary goal is to save users time and money; as planning a trip can be challenging, especially there is an abundance of information available online about travel destinations, but seeking for reliable information and estimates distance by one-to-another place are daunting tasks. 
+An Android application that enables users to personalize travel itineraries based on budget and activity preferences. The primary goal is to save users time and money, as planning a trip can be challenging. With an abundance of information available online about travel destinations, seeking reliable information, estimating the cost for each activity, and determining the distance between destinations can be daunting tasks.
 
 ## Key Feature
 Recommendation system based on budget and user preferences.
