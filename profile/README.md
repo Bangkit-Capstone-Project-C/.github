@@ -2,6 +2,15 @@
 ## About
 An Android application that enables users to personalize travel itineraries based on budget and activity preferences. The primary goal is to save users time and money; as planning a trip can be challenging, especially there is an abundance of information available online about travel destinations, but seeking for reliable information and estimates distance by one-to-another place are daunting tasks. 
 
+## Key Feature
+Recommendation system based on budget and user preferences.
+
+## Additional features
+- Carbon calculator based on travel distance and vehicle type.
+- Travel article for tips and tricks.
+- User-visited places.
+- Gamification (XP acquisition)
+
 ## Team Members
 | Bangkit ID | Name | University | Learning Path | Social Media |
 |-----|-------|------|------|------|
