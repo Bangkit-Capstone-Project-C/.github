@@ -3,7 +3,7 @@
 An Android application that enables users to personalize travel itineraries based on budget and activity preferences. The primary goal is to save users time and money, as planning a trip can be challenging. With an abundance of information available online about travel destinations, seeking reliable information, estimating the cost for each activity, and determining the distance between destinations can be daunting tasks.
 
 ## Key Feature
-Recommendation system based on budget and user preferences.
+Recommendation system based on users' budgets, preferences, and travel destinations.
 
 ## Additional Features
 - Carbon footprint estimation based on optimization travel distance.
