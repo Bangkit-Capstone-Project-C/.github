@@ -21,3 +21,8 @@ Recommendation system based on users' budgets, preferences, and travel destinati
  | C182BSY3250 |  Setya Rizky Pradana | Universitas Amikom Purwokerto | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/setya-rp/)
 | A182BSY2333 | Zain Al Bani Budi Prabowo | Universitas Amikom Purwokerto | Mobile Development | [LinkedIn](https://www.linkedin.com/in/zainalbani/)
 | A002BSY1940 |  Samuel Christopher Swandi | Institut Teknologi Bandung | Mobile Development | [LinkedIn](https://www.linkedin.com/in/samuelswandi/)
+
+## Repositories
+- [Machine Learning](https://github.com/Bangkit-Capstone-Project-CH2-PS025/machine-learning)
+- [Cloud Computing](https://github.com/Bangkit-Capstone-Project-CH2-PS025/cloud-computing)
+- [Mobile Development](https://github.com/Bangkit-Capstone-Project-CH2-PS025/mobile-development)
